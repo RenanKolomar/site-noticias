@@ -149,6 +149,11 @@ main > article > p {
     text-align: justify;
 } 
 
+main > article blockquote {
+    line-height: 25px;
+    text-align: justify;
+} 
+
 main > article a {
     text-decoration: underline;
     color: var(--cor0);
